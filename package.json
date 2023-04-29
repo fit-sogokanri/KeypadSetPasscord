@@ -1,0 +1,14 @@
+{
+  "name": "keypad_set_passcord",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/daigi-fit/KeypadSetPasscord.git",
+  "author": "t.sou0209",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parse": "^5.3.8",
+    "csv-stringify": "^6.3.2",
+    "date-utils": "^1.2.21",
+    "dotenv": "^16.0.3"
+  }
+}
